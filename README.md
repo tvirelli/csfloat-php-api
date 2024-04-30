@@ -1,8 +1,11 @@
 # CSFloat API PHP Client
+![csfloat.com](https://i.imgur.com/NhDHVsh.png "csfloat.com")
 
 This PHP class provides a simple interface for interacting with the CSFloat API, allowing for operations such as listing, retrieving, and creating item listings.
 
 For full documentation of the CSFloat.com API visit https://docs.csfloat.com/.
+
+Please note that I am not affiliated with csfloat.com or Valve Corp.
 
 ## Requirements
 
